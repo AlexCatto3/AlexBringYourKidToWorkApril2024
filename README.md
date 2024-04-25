@@ -19,3 +19,5 @@ Alex Bring Your Kid To Work April 2024
 
 1. we ran create next js app
 2. we got some errors when building that we need to research
+3. To run cd into av7/av7 
+4. type: "yarn dev"
